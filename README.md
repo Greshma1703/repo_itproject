@@ -1,21 +1,20 @@
 # WearItright
 
-> WearItRight Is an AI-Powered fashion stylish website that helps every user find personalised outfits based on their style, preference, and current fashion trends.
+> WearItRight is a smart, web-based styling application designed to simplify daily outfit planning. It helps users — from fashion beginners to enthusiasts — create appropriate looks by combining real-time weather, occasion, personal style, and items from their own digital closet. Unlike apps that focus on shopping or inspiration, WearItRight solves the “I have clothes but nothing to wear” problem with fast, personalized recommendations tailored to what users already own. The platform is mobile and desktop friendly, with an intuitive interface that makes styling accessible for everyone.
 
 ## Team
 
 | Role | Name |
 |---|---|
 | Product Owner | Lalit |
-| Scrum Master | brinda|
-| Scrum Master | Sandrin |
-| Developer |dj |
+| Scrum Master | Sandrin|
+| Developer | Brinda(Vaishnavi) |
 | Developer |Greshma |
 
 
 ## Project Overview
 
-_Brief description of the problem you are solving, your target users, and the core value your product delivers._
+WearItRight solves daily outfit anxiety for students, professionals, and fashion users of all levels by turning clothes they already own into smart recommendations. Using weather, occasion, and personal style, it delivers complete outfits — cutting decision fatigue and promoting sustainable, practical styling.
 
 ## Architecture
 
